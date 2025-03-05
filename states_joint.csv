@@ -3,6 +3,10 @@ Arizona,Southwest
 New Mexico,Southwest
 Texas,Southwest
 Oklahoma,Southwest
+California,Southwest
+Nevada,Southwest
+Utah,Southwest
+Colorado,Southwest
 Alabama,Southeast
 Arkansas,Southeast
 Florida,Southeast
@@ -26,9 +30,22 @@ New York,Northeast
 Pennsylvania,Northeast
 Rhode Island,Northeast
 Vermont,Northeast
+Indiana,Northeast
+Illinois,Northeast
+Michigan,Northeast
+Wisconsin,Northeast
+Ohio,Northeast
 Idaho,Northwest
 Montana,Northwest
 Oregon,Northwest
 Washington,Northwest
 Wyoming,Northwest
 Alaska,Northwest
+Hawaii,Northwest
+North Dakota,Northwest
+South Dakota,Northwest
+Nebraska,Northwest
+Kansas,Northwest
+Minnesota,Northwest
+Missouri,Northwest
+Iowa,Northwest
